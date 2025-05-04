@@ -1,1 +1,6 @@
 .env
+venv
+venv/
+python=3.10
+agentic_trading_system.egg-info
+log
